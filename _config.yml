@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Emily Geist
+tagline:          'A Jekyll theme'
+description:      'Student by day, galazy explorer by night'
+url:              http://emilygeist.com
+baseurl:          /
+
+author:
+  name:           'Emily Geist'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
